@@ -5,10 +5,10 @@
 
 ### Please submit a Pull Request in compliance with the following:
 
-| Theme                           | File Name  | Max File Size     |
+| Theme Component                 | File Name  | Max File Size     |
 | :---                            |    :---    |              :--- |
-| Dynamic/Animated Backgrounds    | bg.mp4     | <5 mb             |
-| Static Image Bacgrounds         | bg.png     | <5 mb             |
-| Static Image Bacgrounds         | bg.ogg     | <5 mb             |
+| Dynamic/Animated Background     | bg.mp4     | <5 mb             |
+| Static Image Bacground          | bg.png     | <5 mb             |
+| Music                           | bg.ogg     | <5 mb             |
 | UI Colours                      | theme.ini  | <5 mb             |
 
