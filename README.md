@@ -2,9 +2,11 @@
 - Full themes or theme components for VitaDB Downloader 
 
 
-# Please submit a Pull Request to the relevant folders:
-- __bg_dynamic:__ Dynami/Animated Backgrounds (as MP4)
-- __bg_static:__ Static Image Bacgrounds (as PNG) 
-- __bg_music:__ Music (as OGG)
-- __themes:__ All of the above + UI colouring with themes.ini
+# Please submit a Pull Request in compliance with the following:
 
+| Theme                                            | Folder        | File Type  | Max File Size     |
+| :---                                            |    :---       |       :--- |              :--- |
+| Dynamic/Animated Backgrounds                     | bg_dynamic    | MP4        | <5 mb             |
+| Static Image Bacgrounds                          | bg_static     | PNG        | <5 mb             |
+| Static Image Bacgrounds                          | bg_music      | OGG        | <5 mb             |
+| All of the above + UI colouring with themes.ini  | themes        | -          | <5 mb             |
