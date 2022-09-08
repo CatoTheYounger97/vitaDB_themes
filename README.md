@@ -2,7 +2,7 @@
 - Full themes or theme components for VitaDB Downloader 
 
 
-# Please submit a Pull Request in compliance with the following:
+### Please submit a Pull Request in compliance with the following:
 
 | Theme                                            | Folder        | File Type  | Max File Size     |
 | :---                                            |    :---       |       :--- |              :--- |
