@@ -1,6 +1,6 @@
 # VitaDB Downloader Themes
 - Full themes or theme components for VitaDB Downloader 
-- Please see example of theme set up in `themes` folder
+- Please see example of full theme set ups in the `themes` folder
 
 
 ### Please submit a Pull Request in compliance with the following:
