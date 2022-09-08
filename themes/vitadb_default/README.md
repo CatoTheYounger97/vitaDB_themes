@@ -1,4 +1,4 @@
-## AC: Black Flag - Pirate Flag Theme ##
+## Default VitaDB Downloader Theme ##
 - Theme Author: Rinnegatamante 
 - Music Source: https://www.youtube.com/watch?v=tZbtmrfDsRQ
 - Background Source: PS3 XMB Blue
