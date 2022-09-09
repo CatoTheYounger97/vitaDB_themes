@@ -11,4 +11,4 @@
 | Static Image Bacground          | bg.png     | <5 mb             |
 | Music                           | bg.ogg     | <5 mb             |
 | UI Colours                      | theme.ini  | <5 mb             |
-
+| README with credits and screenshot| README.md  | -                 |
