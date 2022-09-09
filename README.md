@@ -27,6 +27,7 @@
 
 ### Music  
 - Music will loop 
+- The larger the music file size, the longer the delay for playback at app start. 
 
 
 ### Editing UI Colours  
