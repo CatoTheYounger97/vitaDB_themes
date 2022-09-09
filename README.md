@@ -12,12 +12,15 @@
 | README with credits and screenshot| README.md  | -               |
 
 
-### Dynamic/Animated Background 
-- Suggested to transcode videos with handbrake: https://handbrake.fr/
-- Set to MP4 and rename target file to .mp4
-- set framerate to 30 fps 
-- Set Constant Framerate 
-- Set Clear Audio
+### Creating Dynamic/Animated Background 
+- It is suggested to transcode videos with handbrake: https://handbrake.fr/
+- Import your video file. 
+- Set 'Preset:' to `Fast 720p30` 
+- Under 'Summary' tab set 'Format' to `MP4`
+- Under 'Video' tab, set 'Framerate' to `30` and `Constant Framerate`
+- Under 'Audio' tab, click `clear` to clear all audio
+- In 'Save As' field, set file extension to `.mp4`
+- Click 'Start Encode' to proceed
 
 ### Static Image Background 
 
