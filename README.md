@@ -8,7 +8,7 @@
 | Dynamic/Animated Background     | bg.mp4     | <5 mb             |
 | Static Image Background         | bg.png     | <5 mb             |
 | Music                           | bg.ogg     | <5 mb             |
-| UI Colours                      | theme.ini  | <5 mb             |
+| UI Colours                      | theme.ini  | -             |
 | README with credits and screenshot| README.md  | -               |
 
 
