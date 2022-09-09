@@ -13,7 +13,11 @@
 
 
 ### Dynamic/Animated Background 
-
+- Suggested to transcode videos with handbrake
+- Set to MP4 and rename target file to .mp4
+- set framerate to 30 fps 
+- Set Constant Framerate 
+- Set Clear Audio
 
 ### Static Image Background 
 
