@@ -14,7 +14,7 @@
 
 ### Creating Dynamic/Animated Background 
 - It is suggested to transcode videos with handbrake: https://handbrake.fr/
-- Import your video file. 
+- Import your video file into handbrake. 
 - Set 'Preset:' to `Fast 720p30` 
 - Under 'Summary' tab set 'Format' to `MP4`
 - Under 'Video' tab, set 'Framerate' to `30` and `Constant Framerate`
