@@ -13,7 +13,7 @@
 
 
 ### Dynamic/Animated Background 
-- Suggested to transcode videos with handbrake
+- Suggested to transcode videos with handbrake: https://handbrake.fr/
 - Set to MP4 and rename target file to .mp4
 - set framerate to 30 fps 
 - Set Constant Framerate 
