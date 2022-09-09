@@ -1,6 +1,8 @@
 # VitaDB Downloader Themes
 - Please see example of theme set ups in the `themes` folder
 
+![2022-09-08-224121](https://user-images.githubusercontent.com/82458228/189445536-54d0167c-9602-4341-ba8a-d7707047500c.png)
+
 ### Please submit your theme as a Pull Request in compliance with the following:
 
 | Theme Component                 | File Name  | Max File Size     |
