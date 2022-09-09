@@ -31,7 +31,7 @@
 
 
 ### Editing UI Colours  
-- Edit UI colours in the theme.ini
+- Edit UI colours in the theme.ini located in `ux0:data/vitaDB/`
 - Colours are specified in RGBA, between `0.000000` and `1.000000`
 - Alpha = Transaprency
 - See table for column mapping
