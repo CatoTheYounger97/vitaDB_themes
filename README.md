@@ -23,9 +23,10 @@
 - Click 'Start Encode' to proceed
 
 ### Static Image Background 
-
+- Images should be sized as 960x544
 
 ### Music  
+- Music will loop 
 
 
 ### Editing UI Colours  
