@@ -48,7 +48,7 @@
 
 ![2022-09-10-223029](https://user-images.githubusercontent.com/82458228/189502926-28bec487-cbf1-40a1-9f20-ba402b780c89.png)
 ![2022-09-10-223040](https://user-images.githubusercontent.com/82458228/189502927-48b507c7-1baa-4741-a12c-a4488a9e77d7.png)
-
+```
 ChildWindowBg=          1.000000,0.000000,0.000000,1.000000 // not used 
 FrameBg=                1.000000,0.500000,0.000000,1.000000 // orange - unfilled loading bar and unselected dropdown //
 FrameBgHovered=         1.000000,1.000000,0.000000,1.000000 // yellow - selected dropdown box 
@@ -59,10 +59,10 @@ TitleBgActive=          1.000000,0.000000,0.500000,1.000000 // pink  - screensho
 MenuBarBg=              0.500000,0.500000,0.500000,1.000000 // grey  - app header colour
 ScrollbarBg=            1.000000,1.000000,1.000000,1.000000 // white - scroll bar background 
 ScrollbarGrab=          0.000000,0.000000,0.000000,1.000000 // black - scroll bar pill
-
+```
 ![2022-09-10-223454](https://user-images.githubusercontent.com/82458228/189502947-109a0a95-5670-44be-b728-62443b533263.png)
 ![2022-09-10-223505](https://user-images.githubusercontent.com/82458228/189502948-31f9e6d1-cd96-4a72-acc9-2870ab57cbb7.png)
-
+```
 ScrollbarGrabHovered=   1.000000,0.000000,0.000000,0.000000 // not used 
 ScrollbarGrabActive=    1.000000,0.500000,0.000000,0.000000 // not used 
 CheckMark=              1.000000,1.000000,0.000000,0.000000 // not used 
@@ -73,9 +73,9 @@ ButtonHovered=          1.000000,0.000000,0.500000,0.000000 //pink - selected ap
 ButtonActive=           0.500000,0.500000,0.500000,0.000000 // not used 
 Header=                 1.000000,1.000000,1.000000,0.000000 //white - currently active drop down item
 HeaderHovered=          0.000000,0.000000,0.000000,0.000000 //black - selected drop down item
-
+```
 ![2022-09-10-224227](https://user-images.githubusercontent.com/82458228/189502963-780b1b29-728d-4605-b8f5-bbe6f1786f88.png)
-
+```
 HeaderActive=           1.000000,0.000000,0.000000,0.000000 // not used 
 ResizeGrip=             1.000000,0.500000,0.000000,0.000000 // not used 
 ResizeGripHovered=      1.000000,1.000000,0.000000,0.000000 // not used 
@@ -87,3 +87,4 @@ NavHighlight=           0.500000,0.500000,0.500000,0.000000 //pink - selector bo
 TextLabel=              1.000000,1.000000,0.000000,1.000000 // yellow - text heading 
 TextOutdated=           1.000000,0.000000,0.000000,1.000000 // red - outdated app
 TextUpdated=            0.000000,1.000000,0.000000,1.000000 // green - updated app
+```
