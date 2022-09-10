@@ -67,7 +67,7 @@ HeaderHovered=          0.000000,0.000000,0.000000,0.000000 //black - selected d
 ```
 ![2022-09-10-224227](https://user-images.githubusercontent.com/82458228/189502963-780b1b29-728d-4605-b8f5-bbe6f1786f88.png)
 ```
-NavHighlight=           0.500000,0.500000,0.500000,0.000000 //pink - selector box on app and other ui elements 
+NavHighlight=           0.500000,0.500000,0.500000,0.000000 // pink - selector box on app and other ui elements 
 TextLabel=              1.000000,1.000000,0.000000,1.000000 // yellow - text heading 
 TextOutdated=           1.000000,0.000000,0.000000,1.000000 // red - outdated app
 TextUpdated=            0.000000,1.000000,0.000000,1.000000 // green - updated app
