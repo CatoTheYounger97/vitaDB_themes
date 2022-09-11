@@ -68,19 +68,21 @@ ScrollbarGrab=          0.000000,0.000000,0.000000,1.000000 // black - scroll ba
 | ![2022-09-10-223454](https://user-images.githubusercontent.com/82458228/189502947-109a0a95-5670-44be-b728-62443b533263.png) | ![2022-09-10-223505](https://user-images.githubusercontent.com/82458228/189502948-31f9e6d1-cd96-4a72-acc9-2870ab57cbb7.png) | 
 
 ```
-Button=                 0.500000,0.000000,1.000000,0.000000 //purple - unselected app and search bar 
-ButtonHovered=          1.000000,0.000000,0.500000,0.000000 //pink - selected app and search bar 
-Header=                 1.000000,1.000000,1.000000,0.000000 //white - currently active drop down item
-HeaderHovered=          0.000000,0.000000,0.000000,0.000000 //black - selected drop down item
+Button=                 0.500000,0.000000,1.000000,0.000000 // purple - unselected app and search bar 
+ButtonHovered=          1.000000,0.000000,0.500000,0.000000 // pink - selected app and search bar 
+Header=                 1.000000,1.000000,1.000000,0.000000 // white - currently active drop down item
+HeaderHovered=          0.000000,0.000000,0.000000,0.000000 // black - selected drop down item
 ```
 
 | example #1 | example #2  | 
 | :---            |    :---    |
-| ![2022-09-10-224227](https://user-images.githubusercontent.com/82458228/189502963-780b1b29-728d-4605-b8f5-bbe6f1786f88.png) |  ![2022-09-10-224227](https://user-images.githubusercontent.com/82458228/189502963-780b1b29-728d-4605-b8f5-bbe6f1786f88.png)| 
+| ![2022-09-11-131047](https://user-images.githubusercontent.com/82458228/189526835-1878b5b1-852e-4cf2-abfd-631eec7d7695.png) | ![2022-09-11-131047](https://user-images.githubusercontent.com/82458228/189526839-d880504a-03da-46ce-b0af-516261a2214d.png) | 
 
 ```
-NavHighlight=           0.500000,0.500000,0.500000,0.000000 // pink - selector box on app and other ui elements 
-TextLabel=              1.000000,1.000000,0.000000,1.000000 // yellow - text heading 
-TextOutdated=           1.000000,0.000000,0.000000,1.000000 // red - outdated app
-TextUpdated=            0.000000,1.000000,0.000000,1.000000 // green - updated app
+NavHighlight=           0.500000,0.500000,0.500000,0.000000 // red - selector box on app and other ui elements 
+Text=                   1.000000,0.500000,0.000000,1.000000 // orange - all text not specified below
+TextLabel=              1.000000,1.000000,0.000000,1.000000 // yellow - text catagory heading 
+TextOutdated=           1.000000,0.000000,0.000000,1.000000 // green - outdated app
+TextUpdated=            0.000000,1.000000,0.000000,1.000000 // blue - updated app
+TextNotInstalled=       1.000000,1.000000,1.000000,1.000000 // white - not installed app
 ```
