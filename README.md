@@ -75,8 +75,8 @@ Header=                 1.000000,1.000000,1.000000,1.000000 // white - currently
 HeaderHovered=          0.000000,0.000000,1.000000,1.000000 // blue - selected drop down item
 Separator=              1.000000,1.000000,0.000000,1.000000 // yellow - line between top of app list and drop downs
 PlotHistogram=          0.000000,1.000000,0.000000,1.000000 // green - loading bar filling
-WindowBg=               1.000000,0.500000,0.000000,1.000000 // orange - background of windows and app
-Border=                 1.000000,0.000000,0.000000,1.000000 // red - border for pop ups 
+WindowBg=               1.000000,0.500000,0.000000,1.000000 // orange - background of windows and app (automatically transparent)
+Border=                 1.000000,0.000000,0.000000,1.000000 // red - border for pop ups (changelog and screenshots etc)
 ```
 
 | example #1 | example #2  | 
