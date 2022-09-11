@@ -1,4 +1,5 @@
 # VitaDB Downloader Themes
+- themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader
 - Please see example of theme set ups in the `themes` folder
 - Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
 
