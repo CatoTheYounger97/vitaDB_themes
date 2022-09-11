@@ -11,6 +11,7 @@
 | Dynamic/Animated Background     | bg.mp4     | <5 mb             |
 | Static Image Background         | bg.png     | <5 mb             |
 | Music                           | bg.ogg     | <5 mb             |
+| Font                            | font.tff   | -             |
 | UI Colours                      | theme.ini  | -             |
 | README with credits and screenshot| README.md  | -               |
 
@@ -32,6 +33,9 @@
 - Music will loop 
 - The larger the music file size, the longer the delay for playback at app start. 
 
+### Font  
+- Rename your TFF file `to font.tff`
+- place in `ux0:data/vitaDB/` with rest of theme components
 
 ### Editing UI Colours  
 - Edit UI colours in the theme.ini located in `ux0:data/vitaDB/`
