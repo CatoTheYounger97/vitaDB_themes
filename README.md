@@ -70,7 +70,7 @@ ScrollbarGrab=          0.000000,0.000000,0.000000,1.000000 // black - scroll ba
 
 ```
 Button=                 0.500000,0.000000,1.000000,1.000000 // purple - unselected app and search bar 
-ButtonHovered=          1.000000,0.000000,0.500000,1.000000 // pink - selected app and search bar 
+ButtonHovered=          1.000000,0.000000,0.500000,1.000000 // pink - selected UI element (app list, search bar, dropdown)
 Header=                 1.000000,1.000000,1.000000,1.000000 // white - currently active drop down item
 HeaderHovered=          0.000000,0.000000,1.000000,1.000000 // blue - selected drop down item
 Separator=              1.000000,1.000000,0.000000,1.000000 // yellow - line between top of app list and drop downs
