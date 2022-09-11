@@ -56,7 +56,7 @@
 | ![2022-09-10-223029](https://user-images.githubusercontent.com/82458228/189502926-28bec487-cbf1-40a1-9f20-ba402b780c89.png) | ![2022-09-10-223040](https://user-images.githubusercontent.com/82458228/189502927-48b507c7-1baa-4741-a12c-a4488a9e77d7.png)  | 
 
 ```
-FrameBg=                1.000000,0.500000,0.000000,1.000000 // orange - unfilled loading bar and unselected dropdown //
+FrameBg=                1.000000,0.500000,0.000000,1.000000 // orange - unfilled loading bar and unselected dropdown
 FrameBgHovered=         1.000000,1.000000,0.000000,1.000000 // yellow - selected dropdown box 
 TitleBgActive=          1.000000,0.000000,0.500000,1.000000 // pink  - screenshot and patch notes window header 
 MenuBarBg=              0.500000,0.500000,0.500000,1.000000 // grey  - app header colour
