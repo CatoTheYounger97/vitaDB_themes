@@ -1,5 +1,5 @@
 # VitaDB Downloader Themes
-- themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader
+- Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader
 - Please see example of theme set ups in the `themes` folder
 - Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
 
@@ -35,7 +35,7 @@
 - The larger the music file size, the longer the delay for playback at app start. 
 
 ### Font  
-- Rename your TFF file `to font.tff`
+- Rename your TFF file `font.tff`
 - place in `ux0:data/vitaDB/` with rest of theme components
 
 ### Editing UI Colours  
