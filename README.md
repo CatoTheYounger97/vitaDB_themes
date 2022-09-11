@@ -1,6 +1,6 @@
 # VitaDB Downloader Themes
 - Please see example of theme set ups in the `themes` folder
-- Themes can be submitted as a Pull Request or uploaded to #vitadb cahnnel in the Vita Nouva Discord. 
+- Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
 
 ![2022-09-09-002852](https://user-images.githubusercontent.com/82458228/189445671-6ad165a4-f4b8-40a9-988c-b34f10a144e6.png)
 
