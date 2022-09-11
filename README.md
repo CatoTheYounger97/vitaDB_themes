@@ -69,10 +69,14 @@ ScrollbarGrab=          0.000000,0.000000,0.000000,1.000000 // black - scroll ba
 | ![2022-09-10-223454](https://user-images.githubusercontent.com/82458228/189502947-109a0a95-5670-44be-b728-62443b533263.png) | ![2022-09-10-223505](https://user-images.githubusercontent.com/82458228/189502948-31f9e6d1-cd96-4a72-acc9-2870ab57cbb7.png) | 
 
 ```
-Button=                 0.500000,0.000000,1.000000,0.000000 // purple - unselected app and search bar 
-ButtonHovered=          1.000000,0.000000,0.500000,0.000000 // pink - selected app and search bar 
-Header=                 1.000000,1.000000,1.000000,0.000000 // white - currently active drop down item
-HeaderHovered=          0.000000,0.000000,0.000000,0.000000 // black - selected drop down item
+Button=                 0.500000,0.000000,1.000000,1.000000 // purple - unselected app and search bar 
+ButtonHovered=          1.000000,0.000000,0.500000,1.000000 // pink - selected app and search bar 
+Header=                 1.000000,1.000000,1.000000,1.000000 // white - currently active drop down item
+HeaderHovered=          0.000000,0.000000,1.000000,1.000000 // blue - selected drop down item
+Separator=              1.000000,1.000000,0.000000,1.000000 // yellow - line between top of app list and drop downs
+PlotHistogram=          0.000000,1.000000,0.000000,1.000000 // green - loading bar filling
+WindowBg=               1.000000,0.500000,0.000000,1.000000 // orange - background of windows and app
+Border=                 1.000000,0.000000,0.000000,1.000000 // red - border for pop ups 
 ```
 
 | example #1 | example #2  | 
