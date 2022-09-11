@@ -66,7 +66,7 @@ ScrollbarGrab=          0.000000,0.000000,0.000000,1.000000 // black - scroll ba
 
 | example #1 | example #2  | 
 | :---            |    :---    |
-| ![2022-09-10-223454](https://user-images.githubusercontent.com/82458228/189502947-109a0a95-5670-44be-b728-62443b533263.png) | ![2022-09-10-223505](https://user-images.githubusercontent.com/82458228/189502948-31f9e6d1-cd96-4a72-acc9-2870ab57cbb7.png) | 
+|![2022-09-11-143600](https://user-images.githubusercontent.com/82458228/189530587-6f1bc337-3871-4d10-9ec2-1c8c30133160.png)  | ![2022-09-10-223505](https://user-images.githubusercontent.com/82458228/189502948-31f9e6d1-cd96-4a72-acc9-2870ab57cbb7.png) | 
 
 ```
 Button=                 0.500000,0.000000,1.000000,1.000000 // purple - unselected app and search bar 
