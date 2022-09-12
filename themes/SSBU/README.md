@@ -1,4 +1,4 @@
-## Elden Ring Theme ##
+## Super Smash Bros Ultimate Theme ##
 - Theme Author: Brandonheat8 
 - Music Source: https://youtu.be/UAASQ2qmNho
 - Background Source: SSBU, Brandonheat8
