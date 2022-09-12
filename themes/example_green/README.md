@@ -1,4 +1,4 @@
-## Green Example Theme ##
+## Green XMB Wave Example Theme ##
 - Theme Author: CatoTheYounger 
 - Music Source: https://www.youtube.com/watch?v=tZbtmrfDsRQ
 - Background Source: PS3 XMB Green, Dima353
