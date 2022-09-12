@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+  repository_dispatch:
+    types: [run_build]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: vitasdk/vitasdk-softfp:latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: '1'
+    - name: Compile and Run jsonizer
+      run: |
+        cd jsonizer
+        gcc main.c -o jsonizer
+        ./jsonizer
+    - uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: jsonizer/themes.json
+        overwrite: true
+        tag: Nightly
