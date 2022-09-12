@@ -1,4 +1,4 @@
-## Elden Ring Theme ##
+## Vaporwave Theme ##
 - Theme Author: Brandonheat8 
 - Music Source: https://youtu.be/L5cVv47bLcQ
 - Background Source: Brandonheat8
