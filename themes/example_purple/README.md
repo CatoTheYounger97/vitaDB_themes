@@ -1,4 +1,4 @@
-## Purple Example Theme ##
+## Purple XMB Wave Example Theme ##
 - Theme Author: CatoTheYounger 
 - Music Source: https://www.youtube.com/watch?v=tZbtmrfDsRQ
 - Background Source: PS3 XMB Violet, Dima353
