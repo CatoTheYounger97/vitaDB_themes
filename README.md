@@ -1,11 +1,11 @@
 # VitaDB Downloader Themes
-- Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader
-- Please see example of theme set ups in the `themes` folder
+- Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader.
+- Please see example of theme folder structure in the `themes` folder.
 - Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
 
 ![2022-09-09-002852](https://user-images.githubusercontent.com/82458228/189445671-6ad165a4-f4b8-40a9-988c-b34f10a144e6.png)
 
-### Please submit your theme in compliance with the following:
+### Please submit your theme as a `theme.zip` in compliance with the following:
 
 | Theme Component                 | File Name  | Max File Size     |
 | :---                            |    :---    |              :--- |
@@ -36,7 +36,6 @@
 
 ### Font  
 - Rename your TFF file `font.tff`
-- place in `ux0:data/vitaDB/` with rest of theme components
 
 ### Editing UI Colours  
 - Edit UI colours in the theme.ini located in `ux0:data/vitaDB/`
