@@ -1,6 +1,6 @@
-## Super Smash Bros Ultimate Theme ##
+## Temple of Time Theme ##
 - Theme Author: Brandonheat8 
-- Music Source: https://youtu.be/UAASQ2qmNho
-- Background Source: SSBU, Brandonheat8
+- Music Source: https://youtu.be/nOs1mksL5I4
+- Background Source: Nitendo, Brandonheat8
 
-![image](https://user-images.githubusercontent.com/82458228/189502798-c0fb4b76-ebb8-4925-8582-89b9b77d089a.png)
+![preview](https://user-images.githubusercontent.com/82458228/190021324-38134af8-cbdd-4e61-928a-1b742acaf2ec.png)
