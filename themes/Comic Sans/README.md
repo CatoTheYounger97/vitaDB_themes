@@ -1,4 +1,4 @@
-## Bloodborne Theme ##
+## Comic Sans Theme ##
 - Theme Author: CatoTheYounger 
 - Music Source: Toby Fox
 - Background Source: CatoTheYounger
