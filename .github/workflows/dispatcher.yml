@@ -18,9 +18,19 @@ jobs:
         cd jsonizer
         gcc main.c -o jsonizer
         ./jsonizer
+        cd ..
+    - name: Zip previews
+      run: |
+        zip -9 -r previews.zip previews
     - uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: jsonizer/themes.json
+        overwrite: true
+        tag: Nightly
+    - uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: previews.zip
         overwrite: true
         tag: Nightly
