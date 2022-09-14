@@ -9,7 +9,7 @@
 
 | Theme Component                 | File Name  | Max File Size     |
 | :---                            |    :---    |              :--- |
-| Dynamic/Animated Background     | bg.mp4     | <5 mb             |
+| Animated Background     | bg.mp4     | <5 mb             |
 | Static Image Background         | bg.png     | <5 mb             |
 | Music                           | bg.ogg     | <5 mb             |
 | Font                            | font.tff   | -             |
@@ -17,7 +17,7 @@
 | README with credits and screenshot| README.md  | -               |
 
 
-### Creating Dynamic/Animated Background 
+### Creating Animated Background 
 - It is suggested to transcode videos with handbrake: https://handbrake.fr/
 - Import your video file into handbrake. 
 - Set 'Preset:' to `Fast 720p30` 
