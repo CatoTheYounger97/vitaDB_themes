@@ -32,7 +32,6 @@
 
 ### Music  
 - Music will loop 
-- The larger the music file size, the longer the delay for playback at app start. 
 
 ### Font  
 - Rename your TFF file `font.tff`
