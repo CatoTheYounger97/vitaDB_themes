@@ -35,6 +35,7 @@
 
 ### Font  
 - Rename your TFF file `font.tff`
+- Some fonts may not fit into the UI geometry. 
 
 ### Editing UI Colours  
 - Edit UI colours in the theme.ini located in `ux0:data/vitaDB/`
