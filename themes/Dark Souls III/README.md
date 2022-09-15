@@ -1,4 +1,4 @@
-## Bloodborne Theme ##
+## Dark Souls III Theme ##
 - Theme Author: Brandonheat8 
 - Music Source: https://youtu.be/ooCb7rwKfBI
 - Background Source: Brandonheat8
