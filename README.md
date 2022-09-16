@@ -5,9 +5,9 @@
 
 - Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader.
 - Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
-- Pull Request should be submitted as a named folder containg the following (see the themes folder in the repo for examples):
+- Pull Request should be submitted as a named folder (see the themes folder in the repo for examples).
 
-### Please submit your theme folder with the following:
+### Please submit your named theme folder with the following:
 | Theme Folder Contents           | Description | 
 | :---                            |    :---    | 
 | preview.png  | A screen shot of your theem applied in VitaDB Downloader app.    |
