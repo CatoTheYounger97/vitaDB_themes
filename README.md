@@ -1,13 +1,19 @@
 # VitaDB Downloader Themes
-![2022-09-09-002852](https://user-images.githubusercontent.com/82458228/189445671-6ad165a4-f4b8-40a9-988c-b34f10a144e6.png)
+| example #1 | example #2  |example #3 |
+| :---            |    :---    | :---    | 
+| ![2022-09-09-002852](https://user-images.githubusercontent.com/82458228/189445671-6ad165a4-f4b8-40a9-988c-b34f10a144e6.png) | ![preview](https://user-images.githubusercontent.com/82458228/190670398-220cfd5c-4394-4d80-8ee0-78204c560bd9.png) |   ![preview](https://user-images.githubusercontent.com/82458228/190670494-c76dfb99-ca25-47bf-b9e5-4816ecfe3bf5.png)|
 
 - Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader.
 - Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
-- Pull Request should be submitted as a folder containg the following (see the themes folder in the repo for examples):
-  - preview.png: a screen shot of your theem applied in VitaDB Downloader app. 
-  - metadata.ini: this data will be shown in the VitaDB app. Please ensure `"` characters are not used. 
-  - README.md: contains  credits and screenshot.
-  - theme.zip: see below for contents. 
+- Pull Request should be submitted as a named folder containg the following (see the themes folder in the repo for examples):
+
+| Theme Folder Contents           | Description | 
+| :---                            |    :---    | 
+| preview.png  | A screen shot of your theem applied in VitaDB Downloader app.    |
+| metadata.ini | This data will be shown in the VitaDB app. Please ensure `"` characters are not used.      | 
+| README.md    | Should contain credits and screen shot.    | 
+| theme.zip    | See guide below for contents.    |
+
 
 ### Please submit your `theme.zip` in compliance with the following:
 
