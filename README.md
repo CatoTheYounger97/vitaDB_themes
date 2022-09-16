@@ -1,11 +1,15 @@
 # VitaDB Downloader Themes
-- Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader.
-- Please read below for instructions on making themes and see finished themes in the `theme` folder. 
-- Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
-
 ![2022-09-09-002852](https://user-images.githubusercontent.com/82458228/189445671-6ad165a4-f4b8-40a9-988c-b34f10a144e6.png)
 
-### Please submit your theme as a `theme.zip` in compliance with the following:
+- Themes for VitaDB Downloader https://github.com/Rinnegatamante/VitaDB-Downloader.
+- Themes can be submitted as a Pull Request or uploaded to #vitadb channel in the Vita Nouva Discord. 
+- Pull Request should be submitted as a folder containg the following (see the themes folder in the repo for examples):
+  - preview.png: a screen shot of your theem applied in VitaDB Downloader app. 
+  - metadata.ini: this data will be shown in the VitaDB app. Please ensure `"` characters are not used. 
+  - README.md: contains  credits and screenshot.
+  - theme.zip: see below for contents. 
+
+### Please submit your `theme.zip` in compliance with the following:
 
 | Theme Component                 | File Name  | Max File Size     |
 | :---                            |    :---    |              :--- |
@@ -14,8 +18,6 @@
 | Music                           | bg.ogg     | <5 mb             |
 | Font                            | font.ttf   | -             |
 | UI Colours                      | theme.ini  | -             |
-| README with credits and screenshot| README.md  | -               |
-
 
 ### Creating Animated Background 
 - It is suggested to transcode videos with handbrake: https://handbrake.fr/
