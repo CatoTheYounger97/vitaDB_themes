@@ -12,7 +12,7 @@
 | Animated Background     | bg.mp4     | <5 mb             |
 | Static Image Background         | bg.png     | <5 mb             |
 | Music                           | bg.ogg     | <5 mb             |
-| Font                            | font.tff   | -             |
+| Font                            | font.ttf   | -             |
 | UI Colours                      | theme.ini  | -             |
 | README with credits and screenshot| README.md  | -               |
 
@@ -34,7 +34,7 @@
 - Music will loop 
 
 ### Font  
-- Rename your TFF file `font.tff`
+- Rename your TTF file `font.ttf`
 - Some fonts may not fit into the UI geometry. 
 
 ### Editing UI Colours  
