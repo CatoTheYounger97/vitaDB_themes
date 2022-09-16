@@ -10,7 +10,7 @@
 ### Please submit your named theme folder with the following:
 | Theme Folder Contents           | Description | 
 | :---                            |    :---    | 
-| preview.png  | A screen shot of your theem applied in VitaDB Downloader app.    |
+| preview.png  | A screen shot of your theme applied in VitaDB Downloader app.    |
 | metadata.ini | This data will be shown in the VitaDB app. Please ensure `"` characters are not used.      | 
 | README.md    | Should contain credits and screen shot.    | 
 | theme.zip    | Contains your theme components, please see guide below for contents.    |
