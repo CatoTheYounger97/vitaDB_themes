@@ -3,4 +3,4 @@
 - Music Source: https://youtu.be/nUEQNVV3Gfs, https://youtu.be/laNZygB2vVs
 - Background Source: Brandonheat8
 
-![preview](https://user-images.githubusercontent.com/82458228/190526968-116e5629-ad51-4d1b-8a61-ed3b6eb4421f.png)
+![2022-09-15-205350](https://user-images.githubusercontent.com/82458228/190772185-0d53ea54-c00d-45c6-abd7-25825d16368b.png)
