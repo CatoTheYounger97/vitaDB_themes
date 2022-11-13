@@ -1,6 +1,6 @@
-## Gohan SSJ2 Theme ##
-- Theme Author: DRok17 
-- Music Source: https://www.youtube.com/watch?v=9OZ-yNdKw3o
-- Background Source: https://www.youtube.com/watch?v=Ikry6_vV4Vw
+## Final Fantasy XIII Theme ##
+- Theme Author: Brandonheat8
+- Music Source: https://youtu.be/jzQTkDYuyBg
+- Background Source:  https://youtu.be/KxwrWVPbJqA
 
-![2022-09-15-112955-305711](https://user-images.githubusercontent.com/81541725/190725508-f4805498-95fc-49d9-97d2-8b347a649e56.png)
+![preview](https://user-images.githubusercontent.com/82458228/201529820-108b14df-dd56-4b88-a8ff-c0a54d1dd31f.png)
